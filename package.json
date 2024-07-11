@@ -1,6 +1,14 @@
 {
+  "name": "self-care-messages-generator",
+  "version": "1.0.0",
+  "description": "A program that generates random self-care recommendations.",
+  "main": "script.mjs",
+  "license": "MIT",
   "dependencies": {
-    "chalk": "^5.3.0",
-    "figlet": "^1.7.0"
+    "chalk": "^4.1.2"
+  },
+  "author": "Your Name",
+  "scripts": {
+    "start": "node script.mjs"
   }
 }
